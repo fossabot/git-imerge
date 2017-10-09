@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgit-imerge.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgit-imerge?ref=badge_shield)
+
 ==================================================
 git-imerge -- incremental merge and rebase for git
 ==================================================
@@ -203,3 +205,7 @@ References
    * http://softwareswirl.blogspot.com/2009/08/rebase-with-history-implementation.html
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fgit-imerge.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fgit-imerge?ref=badge_large)
